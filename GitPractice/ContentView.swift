@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("My favorite color is Pink!")
             Text("Change1")
             Text("Change2")
+            Text("Change3")
         }
         .padding()
     }
